@@ -2,11 +2,12 @@
 
 ## Build Status
 
-| Action | Status                                                                                                                                                                                                   |
-| ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Build  | [![Build](https://github.com/OakvilleDynamics/frc-robot-template/actions/workflows/build.yml/badge.svg)](https://github.com/OakvilleDynamics/frc-robot-template/actions/workflows/build.yml)             |
-| Qodana | [![Qodana](https://github.com/OakvilleDynamics/frc-robot-template/actions/workflows/qodana.yml/badge.svg)](https://github.com/OakvilleDynamics/frc-robot-template/actions/workflows/qodana.yml)          |
-| CodeQL | [![CodeQL Scanning](https://github.com/OakvilleDynamics/frc-robot-template/actions/workflows/codeql.yml/badge.svg)](https://github.com/OakvilleDynamics/frc-robot-template/actions/workflows/codeql.yml) |
+| Action   | Status                                                                                                                                                                                                   |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Build    | [![Build](https://github.com/OakvilleDynamics/frc-robot-template/actions/workflows/build.yml/badge.svg)](https://github.com/OakvilleDynamics/frc-robot-template/actions/workflows/build.yml)             |
+| Qodana   | [![Qodana](https://github.com/OakvilleDynamics/frc-robot-template/actions/workflows/qodana.yml/badge.svg)](https://github.com/OakvilleDynamics/frc-robot-template/actions/workflows/qodana.yml)          |
+| CodeQL   | [![CodeQL Scanning](https://github.com/OakvilleDynamics/frc-robot-template/actions/workflows/codeql.yml/badge.svg)](https://github.com/OakvilleDynamics/frc-robot-template/actions/workflows/codeql.yml) |
+| Spotless |                                                                                                                                                                                                          |
 
 ## How to use
 
