@@ -17,4 +17,4 @@
 
 ## Requirements
 
-* WPILib 2023.4.1
+* WPILib 2023.4.2
