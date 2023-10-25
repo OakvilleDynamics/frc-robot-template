@@ -1,5 +1,8 @@
+# This workflow will perform a CodeQL analysis and upload the results as a build artifact.
 name: "CodeQL Scanning"
 
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the main branch.
 on:
   push:
     branches: [main]
