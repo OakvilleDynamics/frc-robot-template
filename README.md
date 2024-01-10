@@ -20,9 +20,9 @@ A template for FRC robots using GradleRIO and WPILib. Prepackaged with GitHub Ac
 4. Open the project in your WPILib Visual Studio Code (VS Code) after cloning
 5. Start hacking away!
 
-> **Note**
+> [!NOTE]
 >
-> You should also change the `README.md` file to reflect your project for build statuses and other badges. Include other changes that are made to help users understand your project.
+> You should also change the `README.md` file to reflect your project for build statuses and other badges, otherwise the CI jobs listed here will point to the template. Include other changes that are made to help users understand your project.
 
 ## Features
 
@@ -38,5 +38,5 @@ A template for FRC robots using GradleRIO and WPILib. Prepackaged with GitHub Ac
 
 ## Requirements
 
-- WPILib 2023.4.3
+- WPILib 2024.1.1
 - Internet connection (for Gradle to download dependencies)
