@@ -20,12 +20,12 @@ public class Robot extends TimedRobot {
 
   @Override
   public void robotPeriodic() {
-   /*
-   
-   private Spark leftMotor1 = new Spark()
-   private Spark leftMotor2 = new spark(1)
-   private Spark rightMotor
-   */ CommandScheduler.getInstance().run();
+    /*
+
+    private Spark leftMotor1 = new Spark()
+    private Spark leftMotor2 = new spark(1)
+    private Spark rightMotor
+    */ CommandScheduler.getInstance().run();
   }
 
   @Override
