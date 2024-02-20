@@ -38,5 +38,5 @@ A template for FRC robots using GradleRIO and WPILib. Prepackaged with GitHub Ac
 
 ## Requirements
 
-- WPILib 2024.1.1
+- WPILib 2024.3.1
 - Internet connection (for Gradle to download dependencies)
