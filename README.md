@@ -53,6 +53,8 @@ Prepackaged with GitHub Actions for CI/CD, Qodana for static analysis, CodeQL fo
 > - Create a new [personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) to [scope the organization](https://docs.github.com/en/codespaces/managing-codespaces-for-your-organization/managing-development-environment-secrets-for-your-repository-or-organization#adding-secrets-for-an-organization) to be used elsewhere (helpful if using this template on multiple different projects)
 >
 > If using a PAT in an organization, it is recommended to create a sock account that is generic but still has access to push to the repository, as this will be given [least privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege) to do other harm if that PAT were to be inadvertenly public
+>
+> Make sure you also grant the sock account proper access to the repository, that includes branch protections and write access to the repository.
 
 - WPILib 2024.3.2
 - Internet connection (for Gradle to download dependencies)
