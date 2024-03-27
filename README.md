@@ -1,6 +1,8 @@
 # Oakville Dynamics FRC Robot Template
 
-A template for FRC robots using GradleRIO and WPILib. Prepackaged with GitHub Actions for CI/CD, Qodana for static analysis, CodeQL for static analysis and security scanning, Spotless for code formatting, and Gradle Validation for validating the Gradle wrapper.
+A template for FRC robots using GradleRIO and WPILib
+
+Prepackaged with GitHub Actions for CI/CD, Qodana for static analysis, CodeQL for static analysis and security scanning, Spotless for code formatting, and Gradle Validation for validating the Gradle wrapper
 
 ## Build Status
 
