@@ -54,7 +54,7 @@ Prepackaged with GitHub Actions for CI/CD, Qodana for static analysis, CodeQL fo
 >
 > If using a PAT in an organization, it is recommended to create a sock account that is generic but still has access to push to the repository, as this will be given [least privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege) to do other harm if that PAT were to be inadvertenly public
 >
-> Make sure you also grant the sock account proper access to the repository, that includes branch protections and write access to the repository.
+> Make sure you also grant the sock account proper access to the repository, that includes branch protections and write access to the repository
 
 - WPILib 2024.3.2
 - Internet connection (for Gradle to download dependencies)
