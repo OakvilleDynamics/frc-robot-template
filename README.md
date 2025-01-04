@@ -66,5 +66,5 @@ Prepackaged with GitHub Actions for CI/CD, Qodana for static analysis, CodeQL fo
 >
 > This means any time you create a repository from this template, you need to create a new project in Qodana Cloud and add the secret scoped to the repository.
 
-- WPILib 2024.3.2
+- WPILib 2025.1.1
 - Internet connection (for Gradle to download dependencies)
