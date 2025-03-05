@@ -47,7 +47,7 @@ Prepackaged with GitHub Actions for CI/CD, Qodana for static analysis, CodeQL fo
 > [!CAUTION]
 >
 > **Syntax Check**
-> 
+>
 > In the [`.github/workflows/syntax-check.yml`](.github/workflows/syntax-check.yml) workflow file, there is a [secret](https://docs.github.com/en/actions/security-guides/using-secrets-in-github-actions) that is used for automatically push changes from a GitHub Actions run, as by default the Actions runner itself does not have permission to push back to the repository. [This is intended behavior for security reasons under the normal `GITHUB_TOKEN` permission set](https://github.com/orgs/community/discussions/25702). To fix this, either:
 >
 > - Create a new [personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) to [scope the repository](https://docs.github.com/en/codespaces/managing-codespaces-for-your-organization/managing-development-environment-secrets-for-your-repository-or-organization#adding-secrets-for-a-repository) itself
@@ -66,5 +66,5 @@ Prepackaged with GitHub Actions for CI/CD, Qodana for static analysis, CodeQL fo
 >
 > This means any time you create a repository from this template, you need to create a new project in Qodana Cloud and add the secret scoped to the repository.
 
-- WPILib 2025.1.1
+- WPILib 2025.3.1
 - Internet connection (for Gradle to download dependencies)
