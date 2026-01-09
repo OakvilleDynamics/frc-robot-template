@@ -9,7 +9,7 @@ import frc.robot.subsystems.ExampleSubsystem;
 
 /** An example command that uses an example subsystem. */
 public class ExampleCommand extends Command {
-  @SuppressWarnings({"PMD.UnusedPrivateField", "PMD.SingularField"})
+  @SuppressWarnings("PMD.UnusedPrivateField")
   private final ExampleSubsystem m_subsystem;
 
   /**
