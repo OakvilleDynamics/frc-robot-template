@@ -19,6 +19,7 @@ jobs:
   qodana:
     runs-on: ubuntu-latest
     permissions:
+      security-events: write
       contents: write
       pull-requests: write
       checks: write
